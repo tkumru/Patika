@@ -1,0 +1,1 @@
+Dışarıdan input almayarak class içi ifadelerde bulunur.
