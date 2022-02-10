@@ -33,3 +33,13 @@ l.dtype # type
 l = np.arange(1 , 11)
 l.reshape(2, 5)
 l.reshape(5, 2)  # değiştirilebiliyor
+
+a = np.array([1,2,3,4])
+b = np.array([5,6,7,8,])
+np.concatenate([a, b])  # concatenate
+np.stack([a, b])  # yeni dimension oluştur üzerine ekle
+
+l = np.array([0,1,2,3,4,5,6,7,8,9])
+np.split(l, [2,5])  # indexe göre üç array oluşturur vsplit hsplit
+
+np.sort(l)  # sıralar ama kaydetmez
