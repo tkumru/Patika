@@ -1,0 +1,28 @@
+/*
+Comment
+*/
+
+.text-red {
+    color: red;
+}
+
+
+/* FontSize - Small */
+
+.fs-small {
+    font-size: 14px;
+}
+
+
+/* FontSize - Medium */
+
+.fs-medium {
+    font-size: 20px;
+}
+
+
+/* FontSize - Large */
+
+.fs-large {
+    font-size: 30px;
+}
