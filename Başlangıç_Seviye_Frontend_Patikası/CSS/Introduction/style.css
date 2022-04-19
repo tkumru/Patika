@@ -26,3 +26,14 @@ Comment
 .fs-large {
     font-size: 30px;
 }
+
+
+/* selectors */
+
+ul>li:first-child {
+    color: aqua;
+}
+
+li:last-child {
+    color: blue;
+}
